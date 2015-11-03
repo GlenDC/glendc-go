@@ -67,10 +67,6 @@ title = "GlenDC"
       text = "Email Adress"
       error = "Please enter your email address."
 
-    [params.contact.form.phone]
-      text = "Phone Number"
-      error = "Please enter your phone number."
-
     [params.contact.form.message]
       text = "Message"
       error = "Please enter a message."
