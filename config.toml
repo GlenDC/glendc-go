@@ -5,6 +5,7 @@ builddrafts = false
 baseurl = "http://glendc.com"
 canonifyurls = true
 languageCode = "en-us"
+title = "GlenDC"
 
 [taxonomies]
   category = "categories"
@@ -15,6 +16,7 @@ languageCode = "en-us"
   description = "personal website of Glen De Cauwsemaecker"
   author = "Glen De Cauwsemaecker"
   email = "contact@glendc.com"
+  icon = "lambda-icon.ico"
 
   [params.navigation]
     brand = "Glen DC"
@@ -83,7 +85,7 @@ languageCode = "en-us"
     [params.footer.location]
       title = "Current Location"
       # Postal address (add as many lines as necessary)
-      address = ["United Kingdom"]
+      address = ["Warwickshire", "United Kingdom"]
 
     [params.footer.social]
       title = "Around the web"
@@ -104,4 +106,4 @@ languageCode = "en-us"
 
     [params.footer.credits]
         title = "Credits"
-        text = "Generated with [Hugo](https://gohugo.io/), themified based on [Freelance](https://github.com/digitalcraftsman/hugo-freelancer-theme), source hosted on [GitHub](github.com/GlenDC/glendc-go)."
+        text = "Generated with [Hugo](https://gohugo.io/), themified based on [Freelance](https://github.com/digitalcraftsman/hugo-freelancer-theme), source hosted on [GitHub](https://github.com/GlenDC/glendc-go)."
