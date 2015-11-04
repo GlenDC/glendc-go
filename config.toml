@@ -80,8 +80,6 @@ title = "GlenDC"
 
     [params.footer.location]
       title = "Current Location"
-      # Postal address (add as many lines as necessary)
-      address = ["Warwickshire", "United Kingdom"]
 
     [params.footer.social]
       title = "Around the web"
